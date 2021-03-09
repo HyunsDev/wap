@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+h1 {
+    width: auto;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    font-weight: 400;
+    font-family: 'Do Hyeon';
+    color: rgb(73, 122, 197);
+    font-size: 30px;
+}
+
+.picture {
+    text-align: center;
+}
+
+
+#memus {
+    max-width: 400px;
+    margin: auto;
+}
+
+.memu {
+    width: auto;
+    margin-top: 20px 20px;
+    padding: 20px 30px;
+
+    /* background-color: #fff;
+    box-shadow: 0 2px 8px 0 rgb(208, 208, 235);
+    border-radius: 10px; */
+
+    border-top: solid 1px rgb(209, 209, 209);
+
+}
+
+.memu_date {
+    margin-bottom: 10px;
+    color: rgb(73, 122, 197);
+    font-weight: 900;
+}
